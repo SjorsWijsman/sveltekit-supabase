@@ -1,5 +1,5 @@
 {
-  "name": "~TODO~",
+  "name": "sveltekit-supabase",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev",
@@ -17,5 +17,8 @@
     "prettier-plugin-svelte": "^2.2.0",
     "svelte": "^3.34.0"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "supabase": "^0.4.2"
+  }
 }
