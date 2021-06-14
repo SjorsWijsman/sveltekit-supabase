@@ -19,6 +19,6 @@
   },
   "type": "module",
   "dependencies": {
-    "supabase": "^0.4.2"
+    "@supabase/supabase-js": "^1.15.1"
   }
 }
